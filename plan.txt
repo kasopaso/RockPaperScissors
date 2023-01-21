@@ -1,0 +1,18 @@
+1. Get random choice from computer rock paper or scissors
+
+2. Get choice from user rock, paper, scissors
+
+
+3. Compare users choice against computer choice
+    -if rock, win to scissors, lose to paper
+    -if paper, win to rock, lose to scissors
+    -if scissors, win to paper, lose to rock
+
+4. Keep track of win/lose total.
+    -if win add point to user
+    -if lose add point to computer
+    -if tie dont add points
+
+5. Play another round untill user or computer gets 5 points
+
+
